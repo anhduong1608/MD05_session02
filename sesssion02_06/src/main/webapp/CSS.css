@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', serif;
+    padding: 20px;
+}
+
+.login-container {
+    width: 300px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+label {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.password-field {
+    position: relative;
+}
+
+.eye-icon {
+    position: absolute;
+    right: 10px;
+    top: 8px;
+    cursor: pointer;
+}
+
+.login-success {
+    margin-top: 20px;
+}
+
+.login-success h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.login-success p {
+    font-size: 16px;
+}
