@@ -1,5 +1,5 @@
 body {
-    background: #f0f2f5;
+    background: #ecf1f8;
     font-family: Arial, sans-serif;
     display: flex;
     height: 100vh;
@@ -9,15 +9,15 @@ body {
 
 .container {
     width: 350px;
-    background: #fff;
+    background: #eae2e2;
     border-radius: 10px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     overflow: hidden;
 }
 
 .title-bar {
-    background: #2c79c1;
-    color: #fff;
+    background: #0c2740;
+    color: #f3e9e9;
     padding: 10px 15px;
     display: flex;
     justify-content: space-between;
